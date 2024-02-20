@@ -27,7 +27,6 @@ http://down.24992499.xyz/
 发送IP给你的小伙伴，就可以一起游戏了。
 
 
-
 guid=D7B65860B23334C08B67F7BD03E06FDC
 userver_ip=81.70.12.91
 userver_port=9000
