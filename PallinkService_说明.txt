@@ -1,0 +1,41 @@
+PallinkService
+Ver 0.1.0.1   
+http://down.24992499.xyz
+4用户测试版
+
+介绍：
+       PallinkService是一款应用于【幻兽帕鲁】游戏服务端的内网映射工具，使用本工具，可以使远程的游戏客户端连接到本地游戏服务端。
+
+
+使用方法：
+
+步骤一：（可以先尝试第二步，连不上再回来。）
+           登录你的拨号上网设备（光猫、路由器），
+           找到【端口转发】，找到【DMZ】，
+           指向你使用游戏服务端那台电脑的IP。
+           如果不知道是哪个，可以打开PallinkService，显示”You IP:“为你的局域网IP，一般为192开头。
+步骤二：
+           启动游戏服务端。
+步骤三：
+           启动PallinkService，
+           等待验证信息，直到出现”PallinkService running“，
+           向上一行，ServiceIP: xxx.xxx.xx.xx:9058
+           就是你可以外网连接的IP地址，左键拖动选择IP地址，右键复制。
+步骤四：
+           发送IP给你的小伙伴，就可以一起游戏了。
+
+
+
+
+配置文件说明
+PallinkService.ini 
+link_port		PallinkService服务端口
+palserver_ip	游戏服务端地址，
+palserver_port	游戏服务端端口
+userver_ip		验证服务器地址，固定的，不要动
+userver_port	验证服务器端口，固定的，不要动
+guid		验证字符，如果连不上验证服务，请到www.24992499.xyz查看新的GUID
+notes		为PallinkClient提供的说明文本，限制50个字符，25汉字
+
+
+

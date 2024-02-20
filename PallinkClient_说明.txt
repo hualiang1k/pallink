@@ -1,0 +1,20 @@
+PallinkClient
+Ver 0.1.0.1   
+http://down.24992499.xyz
+
+
+介绍：
+       PallinkClient是针对PallinkService开发的获取游戏服务端IP的工具。
+
+使用方法：
+              启动PallinkClient，点击List，等待2-3秒，可用的服务端IP将显示出来。
+              选中IP地址，点击Copy，粘贴到游戏客户端，即可连接。
+
+
+
+配置文件说明
+PallinkClient.ini
+link_port		PallinkClient服务端口
+userver_ip		验证服务器地址，固定的，不要动
+userver_port	验证服务器端口，固定的，不要动
+guid		验证字符，如果连不上验证服务，请到www.24992499.xyz查看新的GUID
