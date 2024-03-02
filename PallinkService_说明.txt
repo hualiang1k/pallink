@@ -1,7 +1,6 @@
 PallinkService
-Ver 0.1.0.1   
+Ver 0.1.0.4  
 http://down.24992499.xyz
-4用户测试版
 
 介绍：
        PallinkService是一款应用于【幻兽帕鲁】游戏服务端的内网映射工具，使用本工具，可以使远程的游戏客户端连接到本地游戏服务端。
@@ -29,12 +28,9 @@ http://down.24992499.xyz
 
 配置文件说明
 PallinkService.ini 
-link_port		PallinkService服务端口
-palserver_ip	游戏服务端地址，
-palserver_port	游戏服务端端口
 userver_ip		验证服务器地址，固定的，不要动
 userver_port	验证服务器端口，固定的，不要动
-guid		验证字符，如果连不上验证服务，请到www.24992499.xyz查看新的GUID
+guid		验证字符，如果连不上验证服务，请到http://down.24992499.xyz查看新的GUID
 notes		为PallinkClient提供的说明文本，限制50个字符，25汉字
 
 

@@ -1,5 +1,5 @@
 PallinkClient
-Ver 0.1.0.1   
+Ver 0.1.0.4
 http://down.24992499.xyz
 
 
@@ -14,7 +14,6 @@ http://down.24992499.xyz
 
 配置文件说明
 PallinkClient.ini
-link_port		PallinkClient服务端口
 userver_ip		验证服务器地址，固定的，不要动
 userver_port	验证服务器端口，固定的，不要动
-guid		验证字符，如果连不上验证服务，请到www.24992499.xyz查看新的GUID
+guid		验证字符，如果连不上验证服务，请到http://down.24992499.xyz查看新的GUID
