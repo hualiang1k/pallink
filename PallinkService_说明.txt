@@ -1,5 +1,5 @@
 PallinkService
-Ver 0.1.0.4  
+Ver 0.1.0.5 
 http://down.24992499.xyz
 
 介绍：
@@ -18,7 +18,7 @@ http://down.24992499.xyz
 步骤三：
            启动PallinkService，
            等待验证信息，直到出现”PallinkService running“，
-           向上一行，ServiceIP: xxx.xxx.xx.xx:9058
+           向上一行，ServiceIP: 137.117.17.146:9058
            就是你可以外网连接的IP地址，左键拖动选择IP地址，右键复制。
 步骤四：
            发送IP给你的小伙伴，就可以一起游戏了。
